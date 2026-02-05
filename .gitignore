@@ -4,17 +4,30 @@
 [Oo]bj/
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
-[Bb]uild*/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Builds / exports
+[Bb]uild/
+[Bb]uilds/
+[Bb]uildOutput/
+*.apk
+*.aab
+*.ipa
+*.unitypackage
 *.zip
 
-# IDE / VS
+# IDE / editor
 .vscode/
 .idea/
 *.csproj
 *.sln
 *.slnx
+*.user
+*.userprefs
+*.pidb
+*.booproj
 
 # OS junk
 .DS_Store
 Thumbs.db
-
